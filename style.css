@@ -1,0 +1,123 @@
+.button, .newbut {
+    border: 1px solid #8C9AAC;
+    background-color: #F1F5F9;
+    border-radius: 2px;
+    width: 35px;
+    height: 35px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    outline: none;
+    transition: all linear .3s;
+    margin-bottom: 10px;
+}
+
+.butto {
+    border: 1px solid #8C9AAC;
+    background-color: #F1F5F9;
+    border-radius: 2px;
+    width: 35px;
+    height: 35px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    outline: none;
+    transition: all linear .3s;
+    margin-bottom: 10px;
+	display: none
+}
+
+.button:hover, .newbut:hover {
+    background-color: #F5BB57;
+}
+
+.button:active, .newbut:active {
+    background-color: #FFD5A9;
+}
+
+.butto:hover {
+    background-color: #F5BB57;
+}
+
+.butto:active {
+    background-color: #FFD5A9;
+}
+
+.astichan {
+	margin-top: -4px;
+	font-size: 12px;
+	position: absolute;
+}
+
+.inputcalc {
+    width: 178px;
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    font-size: 20px;
+    outline: none;
+    border: 1px solid #aaacadcc;
+    color: #757575;
+    flex: end;
+    padding-left: 10px;
+    overflow-x: visible;
+}
+
+.calcnumber {
+    width: 150px;
+}
+
+#button0 {
+    width: 74px;
+}
+
+#butto0 {
+    width: 74px;
+}
+
+.calcnshan {
+    width: 80px;
+    position: absolute;
+    margin-top: -225px;
+    margin-left: 117px;
+}
+
+#buttonhav {
+    height: 79px;
+    margin-left: 4px;
+    position: absolute;
+}
+
+#buttongum {
+    position: absolute;
+    margin-top: 45px;
+    margin-left: -35px;
+} 
+
+.minus {
+    position: absolute;
+    margin-top: 5px;
+    margin-left: -6.2px;
+}
+
+#buttonlog {
+    position: absolute;
+    margin-top: 220px;
+    width: 191px;
+    margin-left: -156px;
+}
+
+.logx {
+    position: absolute;
+    font-size: 10px;
+    margin-top: 7px;
+}
+
+.logy {
+    margin-left: 5px;
+    font-size: 12px;
+    position: absolute;
+}
+
+#buttonstoraketx {
+    position: absolute;
+    margin-left: 4px;
+}
